@@ -1,0 +1,18 @@
+.TestimonialsSection {
+  &__card {
+    border-radius: 10px;
+    padding: 35px;
+  }
+
+  &__quote {
+    font-size: 1.1rem;
+  }
+
+  &__media {
+    margin-top: 30px;
+  }
+
+  &__media-content {
+    align-self: center;
+  }
+}
